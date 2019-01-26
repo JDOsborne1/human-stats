@@ -19,7 +19,7 @@ numbers which would seem more significant to a human.
    * Decaying previous frequency (TODO)
 2. Extreme values
    Values which deviate from an otherwise tightly packed group of numbers are given increased weight
-   * absolute deviation (TODO)
+   * ~~absolute deviation~~ (Implemented)
    * scaled deviaton (TODO)
-   * local deviation (TODO)
+   * ~~local deviation~~ (Implemented)
    * scaled local deviation (TODO)
